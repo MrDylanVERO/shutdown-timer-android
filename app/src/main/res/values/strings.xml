@@ -2,8 +2,7 @@
 <resources>
     <string name="app_name">Shutdown Remote</string>
     <string name="title">SHUTDOWN REMOTE</string>
-    <string name="subtitle">PC im selben WLAN zur gewählten Uhrzeit ausschalten</string>
-    <string name="pc_address">PC-Adresse</string>
+    <string name="subtitle">Der PC wird automatisch im selben WLAN gefunden</string>
     <string name="pin">6-stelliger PIN</string>
     <string name="choose_time">Uhrzeit auswählen</string>
     <string name="send">ABSCHALTUNG PLANEN</string>
