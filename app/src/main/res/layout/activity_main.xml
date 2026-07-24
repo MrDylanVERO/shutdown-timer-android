@@ -31,21 +31,10 @@
             android:textSize="15sp" />
 
         <EditText
-            android:id="@+id/addressInput"
-            android:layout_width="match_parent"
-            android:layout_height="56dp"
-            android:layout_marginTop="32dp"
-            android:backgroundTint="@color/accent"
-            android:hint="@string/pc_address"
-            android:inputType="textUri"
-            android:singleLine="true"
-            android:textColor="@color/white"
-            android:textColorHint="@color/muted" />
-
-        <EditText
             android:id="@+id/pinInput"
             android:layout_width="match_parent"
             android:layout_height="56dp"
+            android:layout_marginTop="32dp"
             android:backgroundTint="@color/accent"
             android:hint="@string/pin"
             android:inputType="numberPassword"
