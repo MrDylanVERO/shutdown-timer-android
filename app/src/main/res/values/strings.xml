@@ -6,5 +6,6 @@
     <string name="pin">6-stelliger PIN</string>
     <string name="choose_time">Uhrzeit auswählen</string>
     <string name="send">ABSCHALTUNG PLANEN</string>
+    <string name="cancel">TIMER ABBRECHEN</string>
     <string name="ready">Bereit</string>
 </resources>
