@@ -59,6 +59,17 @@
             android:layout_marginTop="5dp"
             android:timePickerMode="spinner" />
 
+        <TextView
+            android:id="@+id/countdownText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:gravity="center"
+            android:text="00:00:00"
+            android:textColor="@color/accent"
+            android:textSize="42sp"
+            android:textStyle="bold" />
+
         <Button
             android:id="@+id/sendButton"
             android:layout_width="match_parent"
@@ -68,6 +79,17 @@
             android:text="@string/send"
             android:textColor="@color/white"
             android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/cancelButton"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:layout_marginTop="10dp"
+            android:backgroundTint="#D94141"
+            android:text="@string/cancel"
+            android:textColor="@color/white"
+            android:textSize="15sp"
             android:textStyle="bold" />
 
         <TextView
